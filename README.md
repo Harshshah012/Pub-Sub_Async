@@ -1,5 +1,3 @@
-# Advance Operating Systems CS 550 
-# Programming Assignment 2
 # Name: Harsh Shah
 # P2P Publisher-Subscriber System
 
