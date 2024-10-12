@@ -1,0 +1,108 @@
+2024-10-13 04:03:09,418 - INFO - Loaded 8 registered peers from file
+2024-10-13 04:03:09,419 - INFO - Indexing server starting on 127.0.0.1:8080
+2024-10-13 04:03:11,368 - INFO - New connection from ('127.0.0.1', 49486)
+2024-10-13 04:03:11,370 - INFO - Saved registered peers to file
+2024-10-13 04:03:11,370 - INFO - New user 1 registered from ('127.0.0.1', 12347)
+2024-10-13 04:03:11,371 - INFO - New connection from ('127.0.0.1', 49487)
+2024-10-13 04:03:11,371 - INFO - Peer 1 already registered. Logging in.
+2024-10-13 04:03:11,372 - INFO - Peer 1 created topic 'T68'
+2024-10-13 04:03:11,373 - INFO - Peer 1 subscribed to topic 'T68'
+2024-10-13 04:03:11,373 - INFO - Peer 1 sent message to topic 'T68': Message from peer 1
+2024-10-13 04:03:11,374 - INFO - Peer 1 retrieved messages from topic 'T68'
+2024-10-13 04:03:11,374 - INFO - Peer 1 deleted topic 'T68'
+2024-10-13 04:03:11,375 - INFO - Saved registered peers to file
+2024-10-13 04:03:11,375 - INFO - Unregistered peer 1
+2024-10-13 04:03:11,376 - INFO - New connection from ('127.0.0.1', 49488)
+2024-10-13 04:03:11,376 - INFO - Peer 2 already registered. Logging in.
+2024-10-13 04:03:11,377 - INFO - New connection from ('127.0.0.1', 49489)
+2024-10-13 04:03:11,377 - INFO - Peer 2 already registered. Logging in.
+2024-10-13 04:03:11,378 - INFO - Peer 2 created topic 'T25'
+2024-10-13 04:03:11,378 - INFO - Peer 2 subscribed to topic 'T25'
+2024-10-13 04:03:11,378 - INFO - Peer 2 sent message to topic 'T25': Message from peer 2
+2024-10-13 04:03:11,379 - INFO - Peer 2 retrieved messages from topic 'T25'
+2024-10-13 04:03:11,380 - INFO - Peer 2 deleted topic 'T25'
+2024-10-13 04:03:11,381 - INFO - Saved registered peers to file
+2024-10-13 04:03:11,381 - INFO - Unregistered peer 2
+2024-10-13 04:03:11,382 - INFO - New connection from ('127.0.0.1', 49490)
+2024-10-13 04:03:11,382 - INFO - Peer 3 already registered. Logging in.
+2024-10-13 04:03:11,383 - INFO - New connection from ('127.0.0.1', 49491)
+2024-10-13 04:03:11,383 - INFO - Peer 3 already registered. Logging in.
+2024-10-13 04:03:11,384 - INFO - Peer 3 created topic 'T44'
+2024-10-13 04:03:11,384 - INFO - Peer 3 subscribed to topic 'T44'
+2024-10-13 04:03:11,385 - INFO - Peer 3 sent message to topic 'T44': Message from peer 3
+2024-10-13 04:03:11,385 - INFO - Peer 3 retrieved messages from topic 'T44'
+2024-10-13 04:03:11,385 - INFO - Peer 3 deleted topic 'T44'
+2024-10-13 04:03:11,386 - INFO - Saved registered peers to file
+2024-10-13 04:03:11,386 - INFO - Unregistered peer 3
+2024-10-13 04:03:11,387 - INFO - New connection from ('127.0.0.1', 49492)
+2024-10-13 04:03:11,387 - INFO - Peer 4 already registered. Logging in.
+2024-10-13 04:03:11,388 - INFO - New connection from ('127.0.0.1', 49493)
+2024-10-13 04:03:11,388 - INFO - Peer 4 already registered. Logging in.
+2024-10-13 04:03:11,388 - INFO - Peer 4 created topic 'T17'
+2024-10-13 04:03:11,388 - INFO - Peer 4 subscribed to topic 'T17'
+2024-10-13 04:03:11,389 - INFO - Peer 4 sent message to topic 'T17': Message from peer 4
+2024-10-13 04:03:11,389 - INFO - Peer 4 retrieved messages from topic 'T17'
+2024-10-13 04:03:11,389 - INFO - Peer 4 deleted topic 'T17'
+2024-10-13 04:03:11,390 - INFO - Saved registered peers to file
+2024-10-13 04:03:11,390 - INFO - Unregistered peer 4
+2024-10-13 04:03:11,390 - INFO - New connection from ('127.0.0.1', 49494)
+2024-10-13 04:03:11,391 - INFO - Peer 5 already registered. Logging in.
+2024-10-13 04:03:11,391 - INFO - New connection from ('127.0.0.1', 49495)
+2024-10-13 04:03:11,391 - INFO - Peer 5 already registered. Logging in.
+2024-10-13 04:03:11,392 - INFO - Peer 5 created topic 'T37'
+2024-10-13 04:03:11,392 - INFO - Peer 5 subscribed to topic 'T37'
+2024-10-13 04:03:11,392 - INFO - Peer 5 sent message to topic 'T37': Message from peer 5
+2024-10-13 04:03:11,393 - INFO - Peer 5 retrieved messages from topic 'T37'
+2024-10-13 04:03:11,393 - INFO - Peer 5 deleted topic 'T37'
+2024-10-13 04:03:11,393 - INFO - Saved registered peers to file
+2024-10-13 04:03:11,393 - INFO - Unregistered peer 5
+2024-10-13 04:03:11,394 - INFO - New connection from ('127.0.0.1', 49496)
+2024-10-13 04:03:11,394 - INFO - Peer 6 already registered. Logging in.
+2024-10-13 04:03:11,395 - INFO - New connection from ('127.0.0.1', 49497)
+2024-10-13 04:03:11,395 - INFO - Peer 6 already registered. Logging in.
+2024-10-13 04:03:11,395 - INFO - Peer 6 created topic 'T77'
+2024-10-13 04:03:11,396 - INFO - Peer 6 subscribed to topic 'T77'
+2024-10-13 04:03:11,396 - INFO - Peer 6 sent message to topic 'T77': Message from peer 6
+2024-10-13 04:03:11,396 - INFO - Peer 6 retrieved messages from topic 'T77'
+2024-10-13 04:03:11,396 - INFO - Peer 6 deleted topic 'T77'
+2024-10-13 04:03:11,397 - INFO - Saved registered peers to file
+2024-10-13 04:03:11,397 - INFO - Unregistered peer 6
+2024-10-13 04:03:11,397 - INFO - New connection from ('127.0.0.1', 49498)
+2024-10-13 04:03:11,397 - INFO - Peer 7 already registered. Logging in.
+2024-10-13 04:03:11,398 - INFO - New connection from ('127.0.0.1', 49499)
+2024-10-13 04:03:11,398 - INFO - Peer 7 already registered. Logging in.
+2024-10-13 04:03:11,398 - INFO - Peer 7 created topic 'T21'
+2024-10-13 04:03:11,399 - INFO - Peer 7 subscribed to topic 'T21'
+2024-10-13 04:03:11,399 - INFO - Peer 7 sent message to topic 'T21': Message from peer 7
+2024-10-13 04:03:11,400 - INFO - Peer 7 retrieved messages from topic 'T21'
+2024-10-13 04:03:11,400 - INFO - Peer 7 deleted topic 'T21'
+2024-10-13 04:03:11,401 - INFO - Saved registered peers to file
+2024-10-13 04:03:11,401 - INFO - Unregistered peer 7
+2024-10-13 04:03:11,401 - INFO - New connection from ('127.0.0.1', 49500)
+2024-10-13 04:03:11,401 - INFO - Peer 8 already registered. Logging in.
+2024-10-13 04:03:11,402 - INFO - New connection from ('127.0.0.1', 49501)
+2024-10-13 04:03:11,402 - INFO - Peer 8 already registered. Logging in.
+2024-10-13 04:03:11,402 - INFO - Peer 8 created topic 'T12'
+2024-10-13 04:03:11,402 - INFO - Peer 8 subscribed to topic 'T12'
+2024-10-13 04:03:11,402 - INFO - Peer 8 sent message to topic 'T12': Message from peer 8
+2024-10-13 04:03:11,403 - INFO - Peer 8 retrieved messages from topic 'T12'
+2024-10-13 04:03:11,403 - INFO - Peer 8 deleted topic 'T12'
+2024-10-13 04:03:11,403 - INFO - Saved registered peers to file
+2024-10-13 04:03:11,403 - INFO - Unregistered peer 8
+2024-10-13 04:03:11,404 - INFO - Received exit signal. Shutting down...
+2024-10-13 04:03:11,404 - INFO - Connection closed for ('127.0.0.1', 49500)
+2024-10-13 04:03:11,404 - INFO - Connection closed for ('127.0.0.1', 49488)
+2024-10-13 04:03:11,404 - INFO - Connection closed for ('127.0.0.1', 49501)
+2024-10-13 04:03:11,404 - INFO - Connection closed for ('127.0.0.1', 49493)
+2024-10-13 04:03:11,404 - INFO - Connection closed for ('127.0.0.1', 49496)
+2024-10-13 04:03:11,404 - INFO - Connection closed for ('127.0.0.1', 49487)
+2024-10-13 04:03:11,404 - INFO - Connection closed for ('127.0.0.1', 49495)
+2024-10-13 04:03:11,404 - INFO - Connection closed for ('127.0.0.1', 49486)
+2024-10-13 04:03:11,404 - INFO - Connection closed for ('127.0.0.1', 49489)
+2024-10-13 04:03:11,404 - INFO - Connection closed for ('127.0.0.1', 49498)
+2024-10-13 04:03:11,404 - INFO - Connection closed for ('127.0.0.1', 49490)
+2024-10-13 04:03:11,404 - INFO - Connection closed for ('127.0.0.1', 49497)
+2024-10-13 04:03:11,404 - INFO - Connection closed for ('127.0.0.1', 49492)
+2024-10-13 04:03:11,404 - INFO - Connection closed for ('127.0.0.1', 49499)
+2024-10-13 04:03:11,404 - INFO - Connection closed for ('127.0.0.1', 49491)
+2024-10-13 04:03:11,404 - INFO - Connection closed for ('127.0.0.1', 49494)

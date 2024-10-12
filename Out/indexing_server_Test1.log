@@ -1,0 +1,48 @@
+2024-10-13 04:00:44,188 - INFO - Loaded 0 registered peers from file
+2024-10-13 04:00:44,188 - INFO - Indexing server starting on 127.0.0.1:8080
+2024-10-13 04:00:46,154 - INFO - New connection from ('127.0.0.1', 49451)
+2024-10-13 04:00:46,155 - INFO - New connection from ('127.0.0.1', 49452)
+2024-10-13 04:00:46,155 - INFO - New connection from ('127.0.0.1', 49453)
+2024-10-13 04:00:46,157 - INFO - Saved registered peers to file
+2024-10-13 04:00:46,157 - INFO - New user 1 registered from ('127.0.0.1', 12347)
+2024-10-13 04:00:46,158 - INFO - Saved registered peers to file
+2024-10-13 04:00:46,158 - INFO - New user 2 registered from ('127.0.0.1', 12347)
+2024-10-13 04:00:46,159 - INFO - Saved registered peers to file
+2024-10-13 04:00:46,159 - INFO - New user 3 registered from ('127.0.0.1', 12347)
+2024-10-13 04:00:46,159 - INFO - Peer 1 created topic 'x'
+2024-10-13 04:00:46,160 - INFO - Peer 1 created topic 'y'
+2024-10-13 04:00:46,160 - INFO - Peer 1 created topic 'z'
+2024-10-13 04:00:46,161 - INFO - Peer 1 subscribed to topic 'x'
+2024-10-13 04:00:46,161 - INFO - Peer 2 subscribed to topic 'x'
+2024-10-13 04:00:46,161 - INFO - Peer 3 subscribed to topic 'x'
+2024-10-13 04:00:46,161 - INFO - Peer 1 subscribed to topic 'y'
+2024-10-13 04:00:46,162 - INFO - Peer 2 subscribed to topic 'y'
+2024-10-13 04:00:46,162 - INFO - Peer 3 subscribed to topic 'y'
+2024-10-13 04:00:46,162 - INFO - Peer 1 subscribed to topic 'z'
+2024-10-13 04:00:46,162 - INFO - Peer 2 subscribed to topic 'z'
+2024-10-13 04:00:46,162 - INFO - Peer 3 subscribed to topic 'z'
+2024-10-13 04:00:46,162 - INFO - Peer 1 sent message to topic 'x': Message from peer 1
+2024-10-13 04:00:46,162 - INFO - Peer 2 sent message to topic 'x': Message from peer 2
+2024-10-13 04:00:46,163 - INFO - Peer 3 sent message to topic 'x': Message from peer 3
+2024-10-13 04:00:46,163 - INFO - Peer 1 sent message to topic 'y': Message from peer 1
+2024-10-13 04:00:46,163 - INFO - Peer 2 sent message to topic 'y': Message from peer 2
+2024-10-13 04:00:46,163 - INFO - Peer 3 sent message to topic 'y': Message from peer 3
+2024-10-13 04:00:46,163 - INFO - Peer 1 sent message to topic 'z': Message from peer 1
+2024-10-13 04:00:46,164 - INFO - Peer 2 sent message to topic 'z': Message from peer 2
+2024-10-13 04:00:46,164 - INFO - Peer 3 sent message to topic 'z': Message from peer 3
+2024-10-13 04:00:46,165 - INFO - Peer 1 retrieved messages from topic 'x'
+2024-10-13 04:00:46,165 - INFO - Peer 2 retrieved messages from topic 'x'
+2024-10-13 04:00:46,166 - INFO - Peer 3 retrieved messages from topic 'x'
+2024-10-13 04:00:46,166 - INFO - Peer 1 retrieved messages from topic 'y'
+2024-10-13 04:00:46,166 - INFO - Peer 2 retrieved messages from topic 'y'
+2024-10-13 04:00:46,167 - INFO - Peer 3 retrieved messages from topic 'y'
+2024-10-13 04:00:46,167 - INFO - Peer 1 retrieved messages from topic 'z'
+2024-10-13 04:00:46,167 - INFO - Peer 2 retrieved messages from topic 'z'
+2024-10-13 04:00:46,168 - INFO - Peer 3 retrieved messages from topic 'z'
+2024-10-13 04:00:46,168 - INFO - Peer 1 deleted topic 'x'
+2024-10-13 04:00:46,169 - INFO - Peer 1 deleted topic 'y'
+2024-10-13 04:00:46,170 - INFO - Peer 1 deleted topic 'z'
+2024-10-13 04:00:46,171 - INFO - Received exit signal. Shutting down...
+2024-10-13 04:00:46,171 - INFO - Connection closed for ('127.0.0.1', 49452)
+2024-10-13 04:00:46,171 - INFO - Connection closed for ('127.0.0.1', 49453)
+2024-10-13 04:00:46,171 - INFO - Connection closed for ('127.0.0.1', 49451)
