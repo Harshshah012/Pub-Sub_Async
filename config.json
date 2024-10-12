@@ -1,0 +1,10 @@
+{
+    "indexing_server": {
+      "ip": "127.0.0.1",
+      "port": 8080
+    },
+    "peer_node": {
+      "ip": "127.0.0.1",
+      "base_port": 12347
+    }
+  }
